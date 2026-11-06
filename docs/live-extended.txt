@@ -1,0 +1,6 @@
+2026-11-06T05:24:21.709582236Z
+First verified result 8176.502324 ms: Pride and Prejudice
+Verified accessible file headers • checking sources…
+1 works • availability checked; full integrity checked on download
+Crossref 5 open records 960.579674 ms
+EPUB title Alice's Adventures in Wonderland; 21 entries

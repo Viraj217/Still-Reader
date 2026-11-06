@@ -1,0 +1,18 @@
+Author:          Evangelos Vlachogiannis
+Creator:         Writer
+Producer:        OpenOffice.org 2.1
+CreationDate:    Fri Feb 23 21:26:37 2007 IST
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           1
+Encrypted:       no
+Page size:       595 x 842 pts (A4)
+Page rot:        0
+File size:       13264 bytes
+Optimized:       no
+PDF version:     1.4

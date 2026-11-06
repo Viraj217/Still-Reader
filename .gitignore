@@ -1,0 +1,28 @@
+# Local toolchains and build state
+.tools/
+.gradle/
+.kotlin/
+**/build/
+
+# Local Android SDK configuration and signing material
+local.properties
+*.jks
+*.keystore
+
+# Android Studio and IntelliJ metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Markdown notes are kept locally; README.md and AGENTS.md remain tracked.
+markdown/

@@ -1,0 +1,10 @@
+Live checks 2026-11-06T05:16:49.815107361Z
+FAIL Gutendex Sherlock Holmes 54244 ms SocketTimeoutException: timeout
+FAIL Gutendex Jane Austen 20005 ms SocketTimeoutException: timeout
+PASS Gutendex 9780141439518 19 ms 0 records; null
+FAIL Gutendex Home 20009 ms SocketTimeoutException: timeout
+FAIL Gutendex Les Misérables 36383 ms SocketTimeoutException: timeout
+FAIL Gutendex zzzxqv987654321 20005 ms SocketTimeoutException: timeout
+PASS Archive exact title 4440 ms 5 records; The Harvard classics shelf of fiction
+PASS Gutenberg EPUB 3479 ms 136756 bytes SHA256 08a2de3a58226311915bd87056e59ed4ee49a284dcb5e722fef415bca4032a4b
+PASS W3C PDF 676 ms 13264 bytes SHA256 3df79d34abbca99308e79cb94461c1893582604d68329a41fd4bec1885e6adb4

@@ -1,0 +1,74 @@
+> Task :core:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:compileKotlin UP-TO-DATE
+> Task :core:compileJava NO-SOURCE
+> Task :core:processResources NO-SOURCE
+> Task :core:classes UP-TO-DATE
+> Task :core:jar UP-TO-DATE
+> Task :core:processTestResources NO-SOURCE
+> Task :core:compileTestKotlin
+> Task :core:compileTestJava NO-SOURCE
+> Task :core:testClasses UP-TO-DATE
+
+> Task :core:test
+
+CoreTest > epubStructureAndTraversal PASSED
+
+CoreTest > redirectsAndUnknownSize PASSED
+
+CoreTest > normalization PASSED
+
+CoreTest > cancellation PASSED
+
+CoreTest > signatures PASSED
+
+CoreTest > interruptedResume PASSED
+
+CoreTest > providerFailurePartialResults PASSED
+
+CoreTest > rangeIgnoredRestarts PASSED
+
+CoreTest > rankingAndEditions PASSED
+
+CoreTest > downloadAtomicAndDuplicate PASSED
+
+CoreTest > htmlRejected PASSED
+
+CoreTest > boundedResponse PASSED
+
+CoreTest > incompleteRejected PASSED
+
+CoreTest > benchmark STANDARD_OUT
+    Dedup 10000 records: 88.113756 ms; 500 works
+
+CoreTest > benchmark PASSED
+
+CoreTest > privateNetworkBlocked PASSED
+
+CoreTest > errorsAndRetry PASSED
+
+LiveTest > liveProvidersAndDownloads SKIPPED
+
+MoreTest > metadataCache PASSED
+
+MoreTest > concurrentSearchIsolation PASSED
+
+MoreTest > providerCancellation PASSED
+
+MoreTest > emptyProvider PASSED
+
+MoreTest > redirectLoop PASSED
+
+MoreTest > malformedAndEmptyResponse PASSED
+
+MoreTest > timeoutAndDisconnection STANDARD_ERROR
+    Nov 06, 2026 10:56:54 AM okhttp3.mockwebserver.MockWebServer$SocketHandler handle
+    WARNING: MockWebServer[38597] connection from /127.0.0.1 didn't make a request
+
+MoreTest > timeoutAndDisconnection PASSED
+
+QuickLiveTest > live SKIPPED
+
+SampleTest > downloadedSamplesValidate PASSED
+
+BUILD SUCCESSFUL in 14s
+4 actionable tasks: 2 executed, 2 up-to-date

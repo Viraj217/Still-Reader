@@ -1,0 +1,28 @@
+Downloading https://services.gradle.org/distributions/gradle-8.10.2-bin.zip
+.............10%.............20%.............30%.............40%.............50%.............60%.............70%.............80%.............90%.............100%
+> Task :core:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:processResources NO-SOURCE
+> Task :core:processTestResources NO-SOURCE
+> Task :core:compileKotlin
+> Task :core:compileJava NO-SOURCE
+> Task :core:classes UP-TO-DATE
+> Task :core:jar
+> Task :core:compileTestKotlin
+> Task :core:compileTestJava NO-SOURCE
+> Task :core:testClasses UP-TO-DATE
+
+> Task :core:test
+
+QuickLiveTest > live STANDARD_OUT
+    2026-11-06T05:24:21.709582236Z
+    First verified result 8176.502324 ms: Pride and Prejudice
+    Verified accessible file headers • checking sources…
+    1 works • availability checked; full integrity checked on download
+    Crossref 5 open records 960.579674 ms
+    EPUB title Alice's Adventures in Wonderland; 21 entries
+
+
+QuickLiveTest > live PASSED
+
+BUILD SUCCESSFUL in 36s
+4 actionable tasks: 4 executed

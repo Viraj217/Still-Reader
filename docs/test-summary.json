@@ -1,0 +1,42 @@
+[
+  {
+    "name": "still.core.MoreTest",
+    "tests": "7",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0",
+    "time": "3.972"
+  },
+  {
+    "name": "still.core.QuickLiveTest",
+    "tests": "1",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "1",
+    "time": "0.001"
+  },
+  {
+    "name": "still.core.LiveTest",
+    "tests": "1",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "1",
+    "time": "0.003"
+  },
+  {
+    "name": "still.core.SampleTest",
+    "tests": "1",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0",
+    "time": "0.024"
+  },
+  {
+    "name": "still.core.CoreTest",
+    "tests": "16",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0",
+    "time": "8.805"
+  }
+]
